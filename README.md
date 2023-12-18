@@ -1,5 +1,6 @@
 # study_timer
-###https://ishaantakrani.github.io/study_timer
+
+https://ishaantakrani.github.io/study_timer
 
 
 I sometimes have trouble focusing on work. I built this timer to help me with that problem.

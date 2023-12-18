@@ -16,3 +16,4 @@ or select the `other (click me)` button to set a custom time interval `(format: 
 Press the start/stop button to start and pause the timer, and the timer button to stop the timer
 and reset the time to the initial value.
 
+

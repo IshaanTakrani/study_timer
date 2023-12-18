@@ -1,4 +1,6 @@
 # study_timer
+###https://ishaantakrani.github.io/study_timer
+
 
 I sometimes have trouble focusing on work. I built this timer to help me with that problem.
 It provides a simple, functional, and customizable interface that allows me to keep myself
@@ -13,4 +15,3 @@ or select the `other (click me)` button to set a custom time interval `(format: 
 Press the start/stop button to start and pause the timer, and the timer button to stop the timer
 and reset the time to the initial value.
 
-`https://ishaantakrani.github.io/study_timer`

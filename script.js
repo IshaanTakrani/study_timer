@@ -15,25 +15,12 @@ class Timer {
       pre5: root.querySelector("#btn5"),
       pre6: root.querySelector("#btn6"),
       pre7: root.querySelector("#btn-other"),
-      // input: root.querySelector(".input"),
-      // pre_1: root.querySelector(".pre-but-1"),
-      //   pre_2: root.querySelector(".pre-but-2"),
     };
 
     this.interval = null;
     this.remaining = 90;
     this.timeval = 0;
     this.song = null;
-    // this.el.input.value = 90;
-
-    // this.el.input.addEventListener("keypress", function (event) {
-    //   if (event.key === "Enter") {
-    //     event.preventDefault();
-    //     // this.el.resetbtn.click();
-    //     root.querySelector(".btn-r").click();
-    //     root.querySelector(".btn-s").click();
-    //   }
-    // });
 
     this.el.startbtn.addEventListener("click", () => {
       if (this.interval === null) {

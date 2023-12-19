@@ -127,5 +127,7 @@ h2 {
 
 
 body {
-    background-color: #262626;
+    background: radial-gradient(circle, transparent 20%, #202020 20%, #202020 80%, transparent 80%, transparent) 0% 0% / 40px 40px, radial-gradient(circle, transparent 20%, #202020 20%, #202020 80%, transparent 80%, transparent) 20px 20px / 40px 40px, linear-gradient(#262626 3.5px, transparent 3.5px) 0px -1.75px / 20px 20px, linear-gradient(90deg, #262626 3.5px, #202020 3.5px) -1.75px 0px / 20px 20px #202020;
+    background-size: 40px 40px, 40px 40px, 20px 20px, 20px 20px;
+    background-color: #202020;
 }

@@ -146,7 +146,7 @@ class Timer {
 
     <div class="timer">
       <div class="left">
-        <h1 class>Ishaan's Timer</h1>
+        <h1 class>Timer</h1>
         <div class="clock">
           <span class="timer-min">00</span>
           <span class="timer-part"> : </span>
@@ -174,7 +174,7 @@ class Timer {
           <button class="btn-preset" id="btn4">20:00</button>
           <button class="btn-preset" id="btn5">25:00</button>
           <button class="btn-preset" id="btn6">30:00</button>
-          <button class="btn-preset" id="btn-other">other (click me)</button>
+          <button class="btn-preset" id="btn-other">custom time</button>
         </div>
       </div>
     </div>
